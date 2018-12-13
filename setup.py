@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='stadistic_basic',
-    version='0.1dev',
+    version='0.1.1dev',
     packages=['stadistic_basic',],
     license='MIT',
     long_description=open('README.txt').read(),
